@@ -5,13 +5,7 @@
   
   {"facultyId":103,"facultyName":"Patrick","facultyEmail":"patrick@abc.com","highestQualification":"ME","workLocation":"Mysore"},
   
-  {"facultyId":104,"facultyName":"Rajesh","facultyEmail":"rajesh@abc.com","highestQualification":"ME","workLocation":"Bangalore"},
-  
-  {"facultyId":105,"facultyName":"Bhargav","facultyEmail":"bhargav@abc.com","highestQualification":"ME","workLocation":"Bangalore"},
-  
   {"facultyId":106,"facultyName":"Ajay","facultyEmail":"ajay@abc.com","highestQualification":"ME","workLocation":"Hyderabad"},
-  
-  {"facultyId":107,"facultyName":"Bharath","facultyEmail":"bharath@abc.com","highestQualification":"PhD","workLocation":"Bangalore"},
   
   {"facultyId":108,"facultyName":"Thiruppathi","facultyEmail":"thiruppathi@abc.com","highestQualification":"PhD","workLocation":"Mysore"}
 ]
